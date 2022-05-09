@@ -4,8 +4,8 @@
 
 ### Graphic Design Projects 
 
-[Project 1 Blend Image](/sample_page)
-<img src="images/blendimages.pngraw=true"/>
+[Project 1 blend images](/sample_page)
+<img src="images/blendimages.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
